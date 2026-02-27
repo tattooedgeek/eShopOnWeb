@@ -1,4 +1,5 @@
-﻿namespace Microsoft.eShopWeb.Web;
+﻿// my third commit
+namespace Microsoft.eShopWeb.Web;
 
 public static class Constants
 {
